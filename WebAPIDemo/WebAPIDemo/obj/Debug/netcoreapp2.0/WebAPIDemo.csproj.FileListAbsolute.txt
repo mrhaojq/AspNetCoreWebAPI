@@ -1,0 +1,11 @@
+D:\20180327_NET\AspNetCoreWebAPI\WebAPIDemo\WebAPIDemo\bin\Debug\netcoreapp2.0\WebAPIDemo.deps.json
+D:\20180327_NET\AspNetCoreWebAPI\WebAPIDemo\WebAPIDemo\bin\Debug\netcoreapp2.0\WebAPIDemo.runtimeconfig.json
+D:\20180327_NET\AspNetCoreWebAPI\WebAPIDemo\WebAPIDemo\bin\Debug\netcoreapp2.0\WebAPIDemo.runtimeconfig.dev.json
+D:\20180327_NET\AspNetCoreWebAPI\WebAPIDemo\WebAPIDemo\bin\Debug\netcoreapp2.0\WebAPIDemo.dll
+D:\20180327_NET\AspNetCoreWebAPI\WebAPIDemo\WebAPIDemo\bin\Debug\netcoreapp2.0\WebAPIDemo.pdb
+D:\20180327_NET\AspNetCoreWebAPI\WebAPIDemo\WebAPIDemo\obj\Debug\netcoreapp2.0\WebAPIDemo.csproj.CoreCompileInputs.cache
+D:\20180327_NET\AspNetCoreWebAPI\WebAPIDemo\WebAPIDemo\obj\Debug\netcoreapp2.0\WebAPIDemo.AssemblyInfoInputs.cache
+D:\20180327_NET\AspNetCoreWebAPI\WebAPIDemo\WebAPIDemo\obj\Debug\netcoreapp2.0\WebAPIDemo.AssemblyInfo.cs
+D:\20180327_NET\AspNetCoreWebAPI\WebAPIDemo\WebAPIDemo\obj\Debug\netcoreapp2.0\WebAPIDemo.dll
+D:\20180327_NET\AspNetCoreWebAPI\WebAPIDemo\WebAPIDemo\obj\Debug\netcoreapp2.0\WebAPIDemo.pdb
+D:\20180327_NET\AspNetCoreWebAPI\WebAPIDemo\WebAPIDemo\obj\Debug\netcoreapp2.0\WebAPIDemo.csprojResolveAssemblyReference.cache

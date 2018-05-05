@@ -1,0 +1,11 @@
+D:\20180327_NET\AspNetCoreWebAPI\WebAPIDemo\ProtobufTest\bin\Debug\netcoreapp2.0\ProtobufTest.deps.json
+D:\20180327_NET\AspNetCoreWebAPI\WebAPIDemo\ProtobufTest\bin\Debug\netcoreapp2.0\ProtobufTest.runtimeconfig.json
+D:\20180327_NET\AspNetCoreWebAPI\WebAPIDemo\ProtobufTest\bin\Debug\netcoreapp2.0\ProtobufTest.runtimeconfig.dev.json
+D:\20180327_NET\AspNetCoreWebAPI\WebAPIDemo\ProtobufTest\bin\Debug\netcoreapp2.0\ProtobufTest.dll
+D:\20180327_NET\AspNetCoreWebAPI\WebAPIDemo\ProtobufTest\obj\Debug\netcoreapp2.0\ProtobufTest.csproj.CoreCompileInputs.cache
+D:\20180327_NET\AspNetCoreWebAPI\WebAPIDemo\ProtobufTest\obj\Debug\netcoreapp2.0\ProtobufTest.AssemblyInfoInputs.cache
+D:\20180327_NET\AspNetCoreWebAPI\WebAPIDemo\ProtobufTest\obj\Debug\netcoreapp2.0\ProtobufTest.AssemblyInfo.cs
+D:\20180327_NET\AspNetCoreWebAPI\WebAPIDemo\ProtobufTest\bin\Debug\netcoreapp2.0\ProtobufTest.pdb
+D:\20180327_NET\AspNetCoreWebAPI\WebAPIDemo\ProtobufTest\obj\Debug\netcoreapp2.0\ProtobufTest.csprojResolveAssemblyReference.cache
+D:\20180327_NET\AspNetCoreWebAPI\WebAPIDemo\ProtobufTest\obj\Debug\netcoreapp2.0\ProtobufTest.dll
+D:\20180327_NET\AspNetCoreWebAPI\WebAPIDemo\ProtobufTest\obj\Debug\netcoreapp2.0\ProtobufTest.pdb
