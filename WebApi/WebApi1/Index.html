@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Product App</title>
+</head>
+<body>
+    <div>
+        <h2>All Products</h2>
+        <ul id="products"></ul>
+    </div>
+    <div>
+        <h2>Search by ID</h2>
+        <input type="text" id="prodId" size="5" />
+        <input type="button" value="Search" onclick="find();" />
+        <p id="product"></p>
+    </div>
+    <script src="Scripts/jquery-1.10.2.min.js">
+    </script>
+    <script type="text/javascript">
+        var url = "api/Products";
+
+        $(document).ready(function () {
+            //$.getJSON 不错 比$.ajax省事
+            $.getJSON(url).done(function (data) {
+                $.each(data, function (key, item) {
+                    $("<li>", {text:formatItem(item)}).appendTo($("#products"));//还有这种操作
+                });
+            });
+        });
+
+        function formatItem(item) {
+            return item.Name + ": $" + item.Price;
+        }
+
+        function find() {
+            var id = $("#prodId").val();
+            $.getJSON(url + "/" + id)
+                .done(function (data) {
+                    $("#product").text(formatItem(data));
+                })
+                .fail(function (jqXHR, textStatus, err) {
+                    $("#product").text("Error: " + err);
+            });
+        }
+    </script>
+</body>
+</html>

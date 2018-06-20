@@ -1,0 +1,11 @@
+c:\Users\MrHao\source\repos\WebApi\WebApi2\bin\Debug\netcoreapp2.0\WebApi2.deps.json
+c:\Users\MrHao\source\repos\WebApi\WebApi2\bin\Debug\netcoreapp2.0\WebApi2.runtimeconfig.json
+c:\Users\MrHao\source\repos\WebApi\WebApi2\bin\Debug\netcoreapp2.0\WebApi2.runtimeconfig.dev.json
+c:\Users\MrHao\source\repos\WebApi\WebApi2\bin\Debug\netcoreapp2.0\WebApi2.dll
+c:\Users\MrHao\source\repos\WebApi\WebApi2\bin\Debug\netcoreapp2.0\WebApi2.pdb
+c:\Users\MrHao\source\repos\WebApi\WebApi2\obj\Debug\netcoreapp2.0\WebApi2.csprojResolveAssemblyReference.cache
+c:\Users\MrHao\source\repos\WebApi\WebApi2\obj\Debug\netcoreapp2.0\WebApi2.csproj.CoreCompileInputs.cache
+c:\Users\MrHao\source\repos\WebApi\WebApi2\obj\Debug\netcoreapp2.0\WebApi2.AssemblyInfoInputs.cache
+c:\Users\MrHao\source\repos\WebApi\WebApi2\obj\Debug\netcoreapp2.0\WebApi2.AssemblyInfo.cs
+c:\Users\MrHao\source\repos\WebApi\WebApi2\obj\Debug\netcoreapp2.0\WebApi2.dll
+c:\Users\MrHao\source\repos\WebApi\WebApi2\obj\Debug\netcoreapp2.0\WebApi2.pdb
